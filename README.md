@@ -1,1 +1,2 @@
-[Visitor Count](https://profile-counter.glitch.me/Grizzly182/count.svg)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Grizzly182&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Grizzly182&langs_count=5&theme=tokyonight)]()
